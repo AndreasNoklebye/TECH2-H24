@@ -4,3 +4,4 @@ __pycache__/
 *.bak
 *.swp
 *.code-workspace
+.DS_Store
